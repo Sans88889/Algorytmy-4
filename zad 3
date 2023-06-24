@@ -10,3 +10,7 @@ def bubble_sort(array):
                 swapped = True
 
         n -= 1
+Przykład
+my_array = [6, 3, 8, 2, 5, 1]
+bubble_sort(my_array)
+print("Posortowana tablica:", my_array)
